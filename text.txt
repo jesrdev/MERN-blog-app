@@ -3,6 +3,6 @@
 - No use of mongoose, use of mongodb driver for db
 - Using just fetch for requests
 - using proxy for calls to backend
-- hooks
+- react hooks
 - props destructuring
 - environment variables
