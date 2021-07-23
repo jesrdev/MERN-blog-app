@@ -5,4 +5,4 @@
 - using proxy for calls to backend
 - hooks
 - props destructuring
-- environment variables for database connection
+- environment variables
