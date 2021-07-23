@@ -1,0 +1,8 @@
+- Use of react router for navigation
+- No use of styling library
+- No use of mongoose, use of mongodb driver for db
+- Using just fetch for requests
+- using proxy for calls to backend
+- hooks
+- props destructuring
+- environment variables for database connection
